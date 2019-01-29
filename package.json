@@ -7,7 +7,7 @@
         "webpack-preact"
     ],
     "author": "Samet Tarim",
-    "license": "ISC",
+    "license": "MIT",
     "scripts": {
         "server": "webpack-dev-server --open --config webpack.dev.js",
         "dev": "webpack --config webpack.dev.js",

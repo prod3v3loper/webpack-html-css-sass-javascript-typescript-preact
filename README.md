@@ -1,4 +1,4 @@
-# Webpack-HTML-CSS-SASS-JavaScript-TypeScript-Preact
+# Webpack + HTML + CSS + SASS + JavaScript + TypeScript + Preact
 
 The followings can be used and edited here:
 
@@ -33,10 +33,10 @@ package.json
     }
 ```
 
-# INSTALL
+# Install
 
 You can download the project and start it directly.
-Create a Project folder and open your Terminal, to switch in the project folder.
+Or you create a Project folder and open your Terminal, to switch in the project folder.
 ```
 cd /Users/username/project/path/
 ```
@@ -49,7 +49,7 @@ And now install all Dev Dependencies in package.json
 npm install
 ```
 
-# USE
+# Usage
 We added commands in our package.json to run with npm instead of npx
 
 package.json
