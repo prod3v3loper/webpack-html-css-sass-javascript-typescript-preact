@@ -42,7 +42,7 @@ cd /Users/username/project/path/
 ```
 Clone the repo to your local envoirement
 ```
-git clone https://github.com/prod3v3loper/webpack-html-css-sass-javascript-typescript.git
+git clone https://github.com/prod3v3loper/webpack-html-css-sass-javascript-typescript.git /Users/username/Projects/
 ```
 And now install all Dev Dependencies in package.json
 ```
@@ -73,7 +73,7 @@ npm run build
 
 # Contribute
 
-Please [file an issue](https://github.com/prod3v3loper/Webpack-HTML-CSS-SASS-JavaScript-TypeScript/issues) if you
+Please [file an issue](https://github.com/prod3v3loper/webpack-html-css-sass-javascript-typescript-preact/issues) if you
 think something could be improved. Please submit Pull Requests when ever
 possible.
 
@@ -83,4 +83,4 @@ possible.
 
 # License
 
-[MIT](https://github.com/prod3v3loper/webpack-html-css-sass-javascript-typescript/blob/master/LICENSE)
+[MIT](https://github.com/prod3v3loper/webpack-html-css-sass-javascript-typescript-preact/blob/master/LICENSE)
